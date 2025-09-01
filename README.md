@@ -13,4 +13,4 @@ Run `accuracy_HS.m` and `accuracy_GLV.m` to reproduce the results in Figures 4.8
 &nbsp;
 
 ## References
-[1] van Oppen, Yulan B. (2015). _Beyond the average: Computational Approaches for Analyzing and Modeling Cellular Variability._ [Doctoral dissertation, University of Groningen].
+[1] van Oppen, Yulan B. (2025). _Beyond the average: Computational Approaches for Analyzing and Modeling Cellular Variability._ [Doctoral dissertation, University of Groningen].
