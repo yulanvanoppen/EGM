@@ -1,0 +1,6 @@
+*.mexw64
+*.asv
+*.mat
+*.fig
+PLOT_*.m
+figures/
