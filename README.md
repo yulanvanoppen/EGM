@@ -1,6 +1,8 @@
 # EGM: Extended Gradient Matching
 _MATLAB® code package for parameter inference of ODE models with uncertain initial conditions as presented in Chapter 4 of [1]_
 
+(This package has been updated: [https://github.com/yulanvanoppen/EGM-v2](https://github.com/yulanvanoppen/EGM-v2))
+
 &nbsp;
 
 ## Quickstart
